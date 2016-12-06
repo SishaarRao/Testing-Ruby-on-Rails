@@ -1,5 +1,4 @@
-commitMessage = $1
 git add --all
-git commit -m commitMessage
+git commit -m "$1"
 git pull
 git push
