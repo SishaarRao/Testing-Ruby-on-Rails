@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 This is an application to explore scaffold generation in Ruby-on-Rails
+Team Rails!
