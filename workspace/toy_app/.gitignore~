@@ -19,6 +19,3 @@
 
 # Ignore Byebug command history file.
 .byebug_history
-
-# Ignore the gitbash.sh executable
-/gitbash.sh
